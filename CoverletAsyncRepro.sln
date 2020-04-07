@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29926.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoverletAsyncRepro", "CoverletAsyncRepro.csproj", "{F12B139B-9427-4FAE-97C9-B82DF5FBA193}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoverletAsyncRepro", "CoverletAsyncRepro\CoverletAsyncRepro.csproj", "{F12B139B-9427-4FAE-97C9-B82DF5FBA193}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoverletAsyncRepro.Tests", "..\CoverletAsyncRepro.Tests\CoverletAsyncRepro.Tests.csproj", "{18C8FE20-4864-4233-AFB8-59908D56F4A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoverletAsyncRepro.Tests", "CoverletAsyncRepro.Tests\CoverletAsyncRepro.Tests.csproj", "{18C8FE20-4864-4233-AFB8-59908D56F4A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

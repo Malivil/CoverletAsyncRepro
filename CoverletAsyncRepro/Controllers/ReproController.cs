@@ -9,6 +9,8 @@ namespace CoverletAsyncRepro.Controllers
     [Route("[controller]")]
     public class ReproController : ControllerBase
     {
+        private string ThisPropertyShouldBeIgnored { get; set; }
+
         /// <summary>
         /// Processes the specified capture file.
         /// </summary>
